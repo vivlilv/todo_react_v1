@@ -1,0 +1,13 @@
+body, #app-container {
+  text-align: center;
+  display: block;
+  
+  background-color: aqua;
+  justify-content: center; 
+  align-items: center;
+}
+
+* {
+  border: 1px solid red;
+}
+
